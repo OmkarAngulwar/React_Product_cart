@@ -1,0 +1,24 @@
+ .cart{
+    display: inline-block;
+    border: solid;
+    width: 50%;
+    float: right;
+    box-sizing: border-box;
+    padding: 20px;
+ }
+ .cart-item{
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    margin: 10px;
+ }
+ input{
+    text-align: center;
+    margin: 10px;
+ }
+ button{
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+ }
+ 

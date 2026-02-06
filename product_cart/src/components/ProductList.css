@@ -1,0 +1,18 @@
+ .product-list{
+    display: inline-block;
+    border: solid;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 20px;
+ }
+ .product-item{
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    margin: 10px;
+ }
+ button{
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+ }
